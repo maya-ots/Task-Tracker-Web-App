@@ -3,9 +3,7 @@ A Task Tracker web app is a productivity tool designed to help individuals or te
 ## PHASE 1 — Project Setup
 
 Goal: Get a running backend skeleton.
-
 Create project folder and open it in VS Code
-
 Initialize Node.js : npm init -y
 Install core dependencies : npm install express dotenv
 npm install --save-dev nodemon
