@@ -6,4 +6,11 @@ Goal: Get a running backend skeleton.
 
 Create project folder and open it in VS Code
 
-Initialize Node.js
+Initialize Node.js : npm init -y
+Install core dependencies : npm install express dotenv
+npm install --save-dev nodemon
+Create the folder structure (src, routes, controllers, etc.)
+Create server.js
+Add npm scripts: "start": "node server.js",
+"dev": "nodemon server.js"
+Result: Empty server ready to run.
