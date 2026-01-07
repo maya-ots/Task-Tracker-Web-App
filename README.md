@@ -11,9 +11,9 @@ Works entirely in the browser. No backend required.
 Features
 
  Modern Dark UI
-- ➕ Add new tasks with a click
-- 🖱️ Drag & drop functionality
-- 📦 Organized columns:
+-  Add new tasks with a click
+-  Drag & drop functionality
+-  Organized columns:
    - To Do
     - In Progress
    - Done
