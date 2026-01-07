@@ -7,3 +7,14 @@ Add tasks dynamically
 Drag & Drop tasks between columns
 Minimal dark UI inspired by modern dashboards
 Works entirely in the browser. No backend required.
+
+Features
+
+ Modern Dark UI
+- ➕ Add new tasks with a click
+- 🖱️ Drag & drop functionality
+- 📦 Organized columns:
+   - To Do
+    - In Progress
+   - Done
+- Lightweight — no frameworks needed
